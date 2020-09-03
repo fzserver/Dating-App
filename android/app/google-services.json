@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "721408937490",
+    "firebase_url": "https://flirtme-91b58.firebaseio.com",
+    "project_id": "flirtme-91b58",
+    "storage_bucket": "flirtme-91b58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721408937490:android:172447599ea3107a44d2cb",
+        "android_client_info": {
+          "package_name": "randomchat.dating.flirtme.crush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721408937490-d929lji8uk16qb013dpaaf9mqchbbkrr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "randomchat.dating.flirtme.crush",
+            "certificate_hash": "622e0ae8c23bd688dec9f49d2a63279b9b9fb253"
+          }
+        },
+        {
+          "client_id": "721408937490-v2oe4btm74tf35nna2lpm1ib9avd562m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1q84odlj3iMPOqQ3IcLDmwFrfBDx8oWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721408937490-v2oe4btm74tf35nna2lpm1ib9avd562m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7688128470074396~1851296898"
+    }
+  ],
+  "configuration_version": "1"
+}
